@@ -63,7 +63,7 @@ public class MergeSort {
 		int[] arr = { 3, 4, 6, 8, 1, 2, 5, 7 };
 		mergeSortUtil(arr);
 
-		System.out.println("Merge Sorted Array:");
+		System.out.println("Merge Sorted Array: ");
 		for (int i : arr) {
 			System.out.print(i + " ");
 		}
